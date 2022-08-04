@@ -1,0 +1,8 @@
+# Directories
+bin/
+bin-int/
+
+# Files
+Makefile
+*.make
+*.out

@@ -1,0 +1,24 @@
+#+TITLE: C++20 Library
+
+* Main Features
+
+- Modules
+- Concepts
+- Lambda templates
+
+
+** Modules
+
+Special compiler command for compiling a module
+
+** Concepts
+
+** Lambda Templates
+
+#+begin_src c++
+  auto foo = []<typename T>(std::vector<T> const& tvec) {
+    // do special stuff with
+  };
+#+end_src
+
+  
